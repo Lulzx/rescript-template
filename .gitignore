@@ -1,3 +1,11 @@
+# rescript
+.DS_Store
+/node_modules/
+/lib/
+.bsb.lock
+.merlin
+.vscode
+
 # Logs
 logs
 *.log
